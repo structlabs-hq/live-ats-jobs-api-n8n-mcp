@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "apify-live-ats-jobs-api": {
+      "url": "https://mcp.apify.com/?actors=structlabs/live-ats-jobs-api"
+    }
+  }
+}
