@@ -5,20 +5,20 @@ TOKEN = os.environ.get("APIFY_TOKEN")
 if not TOKEN:
     raise SystemExit("Set APIFY_TOKEN first")
 
-payload = {
-    "queries": [
-        "AI Engineer"
-    ],
-    "remoteOnly": false,
-    "providers": [
-        "greenhouse",
-        "ashby",
-        "lever",
-        "bamboohr"
-    ],
-    "maxCompanies": 20,
-    "maxJobs": 10
-}
+payload = json.loads(r'''{
+  "queries": [
+    "AI Engineer"
+  ],
+  "remoteOnly": false,
+  "providers": [
+    "greenhouse",
+    "ashby",
+    "lever",
+    "bamboohr"
+  ],
+  "maxCompanies": 20,
+  "maxJobs": 10
+}''')
 
 req = urllib.request.Request(
     "https://api.apify.com/v2/acts/structlabs~live-ats-jobs-api/run-sync-get-dataset-items",
