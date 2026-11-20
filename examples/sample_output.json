@@ -1,0 +1,68 @@
+[
+  {
+    "id": "greenhouse:gusto:7369003",
+    "provider": "greenhouse",
+    "company": "Gusto",
+    "company_slug": "gusto",
+    "title": "Enterprise Application AI Engineer",
+    "location": "San Francisco, CA - Hybrid",
+    "locations": [
+      "San Francisco, CA - Hybrid"
+    ],
+    "remote_status": "hybrid",
+    "seniority": "unknown",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_period": null,
+    "department": null,
+    "employment_type": null,
+    "posted_at": "2026-11-18T13:37:01-05:00",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7369003",
+    "fetched_at": "2026-11-20T08:30:42.994638+00:00"
+  },
+  {
+    "id": "greenhouse:gusto:7760341",
+    "provider": "greenhouse",
+    "company": "Gusto",
+    "company_slug": "gusto",
+    "title": "Staff Software Engineer, Core AI Platforms",
+    "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid",
+    "locations": [
+      "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid"
+    ],
+    "remote_status": "hybrid",
+    "seniority": "staff",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_period": null,
+    "department": null,
+    "employment_type": null,
+    "posted_at": "2026-11-18T13:37:01-05:00",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7760341",
+    "fetched_at": "2026-11-20T08:30:42.994898+00:00"
+  },
+  {
+    "id": "greenhouse:gusto:7986047",
+    "provider": "greenhouse",
+    "company": "Gusto",
+    "company_slug": "gusto",
+    "title": "Staff Software Engineer, Retirement AI",
+    "location": "Denver, CO;San Francisco, CA;New York, NY",
+    "locations": [
+      "Denver, CO;San Francisco, CA;New York, NY"
+    ],
+    "remote_status": "unknown",
+    "seniority": "staff",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "salary_period": null,
+    "department": null,
+    "employment_type": null,
+    "posted_at": "2026-11-18T13:37:01-05:00",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7986047",
+    "fetched_at": "2026-11-20T08:30:42.995117+00:00"
+  }
+]
